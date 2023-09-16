@@ -1,0 +1,102 @@
+.tituloInicio {
+    font-family: 'Luckiest Guy';
+    font-size: 75px;
+    color:white;
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 30px 0 30px 0;
+
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.backindex {
+
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+li {
+    text-align: center;
+    width: 50vw;
+    list-style: none;
+    font-family: 'Luckiest Guy';
+    font-size: 25px;
+}
+
+.titulo {
+    font-size: 75px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding-top: 15px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#texto {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    margin-left: 400px;
+    padding: 10px 20px;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+#texto-superman {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: red;
+    margin-left: 400px;
+    padding: 10px 20px;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+#pantera {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: green;
+    margin-left: 400px;
+    padding: 10px 20px;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+#textomulher {
+    font-family: 'Smith Buck', sans-serif;
+    background-color:gold;
+    font-size: 25px;;
+    color: black;
+    margin-left: 400px;
+    padding: 10px 20px;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+#textomulherh {
+    font-family: 'Smith Buck', sans-serif;
+    background-color:black;
+    font-size: 25px;
+    color: darkgreen;
+    margin-left: 400px;
+    padding: 10px 20px;
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+.botao {
+    text-align: center;
+}
